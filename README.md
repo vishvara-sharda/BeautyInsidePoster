@@ -1,4 +1,4 @@
-# Beauty Inside Poster
+# "Beauté Intérieure" Poster
 
 ![Beauty Inside Poster](https://github.com/vishvara-sharda/BeautyInsidePoster/blob/main/Beauty%20INSIDE.png?raw=true)
 
